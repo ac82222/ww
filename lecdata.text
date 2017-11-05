@@ -1,0 +1,1 @@
+[{"type": 2, "regex": "\\s+Version\\s+(\\S+)\\s+\\(.*\\)\\s+", "kpiname": "TOOL_VER"}]
